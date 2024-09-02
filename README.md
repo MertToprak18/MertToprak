@@ -1,50 +1,56 @@
-# Benim Portfolyom
+# Hello, I'm Ahmet Murat ÜNSAL! 👋
 
-Merhaba! Ben **[İsminiz]**, bir yazılımcı / tasarımcı olarak çalışıyorum. İşte bazı projelerim ve çalışmalarım.
+## Front-End Developer | HTML5 | CSS3 | JavaScript | React
 
-## 📸 Hakkımda
 
-![Profil Fotoğrafım](profil.jpg)
+Welcome! I'm Ahmet Murat ÜNSAL, a Front-End Developer. This README file will provide you with some information about my projects and skills.
 
-Kısaca kendimi tanıtmak gerekirse, yazılım geliştirme ve tasarım alanlarında deneyimliyim. Özellikle front-end development, UX/UI tasarımı ve web geliştirme konularında uzmanlaşmış durumdayım.
+## 🚀 About Me
 
-## 💼 Projelerim
+- 💻 I have over 1 years of experience as a Front-End Developer.
+- 🎓 I have completed the necessary training and done internships.
+- 🌱 I'm always open to learning new technologies and advancements.
+- 🎯 I focus on creating user-friendly, efficient, and amazing experiences.
+- 📚 I enjoy contributing to open-source projects and participating in community events.
 
-### 1. [Proje Adı](https://github.com/kullanici/proje-linki)
-- **Açıklama:** Bu proje ile yaptığım çalışmalar...
-- **Teknolojiler:** HTML, CSS, JavaScript
+## 💼 Skills
 
-### 2. [Proje Adı](https://github.com/kullanici/proje-linki)
-- **Açıklama:** Bu başka bir proje ve amacı...
-- **Teknolojiler:** Python, Flask
+<div display="flex">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
 
-### 3. [Proje Adı](https://github.com/kullanici/proje-linki)
-- **Açıklama:** Bu da bir başka proje, ve bu projede...
-- **Teknolojiler:** React, Node.js
+## 🛠️ Projects
 
-## 📬 İletişim
+Here are some of my projects with their links and brief descriptions:
 
-Eğer benimle iletişime geçmek isterseniz, aşağıdaki yöntemlerden birini kullanabilirsiniz:
+SOON.
 
-- **Email:** [email@example.com](mailto:email@example.com)
-- **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username)
-- **Twitter:** [@kullaniciadi](https://twitter.com/kullaniciadi)
+## 🤝 Get in Touch
 
-## 🌐 Sosyal Medya
+Feel free to reach out to me through my social media accounts or via email:
 
-Beni sosyal medyada takip edebilirsiniz:
+<div display="flex">
+  <a href="https://www.linkedin.com/in/ahmet-murat-unsal-116b53265/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ByAhmetMurat">
+    <img src="https://img.shields.io/badge/AhmetMuratUNSAL-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/ogretmenbabis/">
+    <img src="https://img.shields.io/badge/@ogretmenbabis-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
-- [LinkedIn](https://linkedin.com/in/username)
-- [Twitter](https://twitter.com/kullaniciadi)
-- [Instagram](https://instagram.com/kullaniciadi)
 
-## 🛠️ Kullandığım Araçlar ve Teknolojiler
+- E-posta: ahmetmuratunsal@gmail.com
 
-- **Programlama Dilleri:** JavaScript, Python, C++
-- **Araçlar:** VSCode, Git, Figma, Photoshop
-- **Çerçeveler ve Kütüphaneler:** React, Node.js, Django, Bootstrap
+## 📊 Github Statistics
 
----
-
-Teşekkürler! Portföyümü ziyaret ettiğiniz için mutlu oldum. Daha fazla bilgi edinmek veya birlikte çalışmak için benimle iletişime geçmekten çekinmeyin!
-
+![Ahmet Murat ÜNSAL's Github Stats](https://github.com/ByAhmetM)
